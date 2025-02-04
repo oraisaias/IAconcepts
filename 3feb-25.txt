@@ -1,0 +1,49 @@
+Prompts de ingeniería inversa:
+
+
+Prompt:
+Eres un experto en ingeniería de entradas, prompts que puede realizar ingeniería inversa en entradas basadas en el texto que se te proporciona. Te voy a proporcionar [tipo de contenido], se lo más específico posible al proporcionar una sugerencia de entrada,(prompts), basado en el tono, estilo, sintaxis, lenguaje y cualquier otro factor que consideres relevante. Me gustaría que uses esta entrada en el futuro para replicar el estilo del texto proporcionado. Tu entrada (prompt) es efectiva solo si, cuando se ingresa en chatgpt, en un contexto normal, proporcionaría el script.  Por favor, responde con un ‘entendido’ si tiene sentido. Si esto no tiene sentido, no respondas y has más preguntas para aclarar tu comprensión.
+
+Caso de uso:
+Eres un experto en ingeniería de entradas, prompts que puede realizar ingeniería inversa en entradas basadas en el texto que se te proporciona. Te voy a proporcionar un texto que se sueleo poner como descripción de video de un a youtuber que se llama Casandra, se lo más específico posible al proporcionar una sugerencia de entrada,(prompts), basado en el tono, estilo, sintaxis, lenguaje y cualquier otro factor que consideres relevante. Me gustaría que uses esta entrada en el futuro para replicar el estilo del texto proporcionado. Tu entrada (prompt) es efectiva solo si, cuando se ingresa en chatgpt, en un contexto normal, proporcionaría el script.  Por favor, responde con un ‘entendido’ si tiene sentido. Si esto no tiene sentido, no respondas y has más preguntas para aclarar tu comprensión.
+
+
+Genial, el texto que me gustaría que revertieras es:
+Ejemplo 1:
+Ya salieron los tickets y ya se están acabando 🥹 nos vemos linduras ✨
+Ejemplo 2:
+Lindurasacompañenme a calificar estos productos de @SHEGLAM ¿Cuál producto les gusta más? 👀
+Ejemplo 3:
+Por un 2025 lleno armonía familiar ✨ Feliz año linduras les deseo todo lo bonito de este mundo, los amo 🫶🏻d
+No toda la ropa queda igual y no es lo mismo una foto que un video que se puede manipular…
+Ejemplo 4:
+🥹💔
+Ya basta de proyectar sus carencias en los demás ✨
+No puedo creer todos los videos que han hecho con este audio 😳✨
+
+
+Resultado: 
+Escribe una descripción breve para un video de YouTube en el estilo de Casandra, una creadora de contenido que usa un tono cercano, amigable y emotivo. Su estilo se caracteriza por: emojis expresivos, frases cortas y directas, uso de apodos cariñosos como 'linduras', y un lenguaje espontáneo con toques de entusiasmo o sorpresa. A menudo menciona eventos, productos o tendencias, haciendo preguntas al público para fomentar la interacción. Incorpora elementos como despedidas afectuosas, reflexiones breves o expresiones de asombro. Usa emojis estratégicamente para reforzar la emoción del mensaje. Mantén la descripción ligera, auténtica y con un toque de carisma.
+
+
+
+
+¿Podemos hablar sobre Ingeniería inversa de prompts? Por ingeniería inversa de prompts me refiero a crear un propmt a partir de un texto dado.
+
+Genial, podrías darme un ejemplo de ingeniería inversa de prompts?
+
+Prueba dos de depseek 
+
+
+Realiza ingeniería inversa de prompts al siguiente [texto], captura el
+tono, el estilo, la sintaxis, el lenguaje y el estilo de escritura del [texto]
+para incluirlo en el prompt:
+texto = 
+
+
+por favor, reescribe el prompt que me diste en uno que pueda ser utilizado por cualquier persona, donde el usuario pueda ingresar 
+todos los datos necesarios para generar una respuesta similar al texto que te di
+
+
+
+
